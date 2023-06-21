@@ -1,3 +1,5 @@
+[한국어로 읽기](README-KR.md)
+
 # Gridus
 Gridus is an **AI-powered social media analytics platform**. it is designed to simplify and automate data analysis. With a low technical barrier, it swiftly derives valuable insights from all available data.
 
