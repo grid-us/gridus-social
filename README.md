@@ -1,10 +1,10 @@
 [한국어로 읽기](README-KR.md)
 
 # Gridus
-Gridus is an **AI-powered social media analytics platform**. it is designed to simplify and automate data analysis. With a low technical barrier, it swiftly derives valuable insights from all available data.
+Gridus is an **AI-powered social media analytics platform**. it is designed to simplify and automate social media data analysis. With a low technical barrier, it swiftly derives valuable insights from all available data.
 
 ## Advantages
-1. **Integrated Social Media Analytics**: Gridus streamlines operations by unifying data analysis and social media management, providing a crucial tool for customer acquisition and retention.
+1. **Integrated Social Media Analytics**: Gridus streamlines operations by unifying social media data analysis and management, providing a crucial tool for customer acquisition and retention.
 
 2. **Open Source**: Gridus is an open-source software. On average, open source software's saves maintenance costs by 33% compared to proprietary software.
 
@@ -21,7 +21,8 @@ We got a seed investment(2023.06) from South Korea government. The objective is 
 
 ## Contribution
 Please review and apply various open-source data integration and visualization libraries. 
-Contributions are welcome! Please read our [Contribution Guide](CONTRIBUTING.md) for more information.
+
+Please read our [Contribution Guide](CONTRIBUTING.md) for more information.
 
 ## License
 Gridus is licensed under the terms of the [Apache 2.0 license](LICENSE).
