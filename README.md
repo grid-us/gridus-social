@@ -6,7 +6,7 @@ Gridus is an **AI-powered social media analytics platform**. it is designed to s
 ## Advantages
 1. **Integrated Social Media Analytics**: Gridus streamlines operations by unifying data analysis and social media management, providing a crucial tool for customer acquisition and retention.
 
-2. **Open Source**: Gridus is an open-source software. Running a project as open source saves maintenance costs on average by 33% compared to proprietary software. It also offers the flexibility of community enhancement.
+2. **Open Source**: Gridus is an open-source software. On average, open source software's saves maintenance costs by 33% compared to proprietary software.
 
 3. **AI-Driven Data Analysis**: The platform incorporates AI to provide competitive, simplified, and automated data analysis. It improve insights drawn from the data.
 
