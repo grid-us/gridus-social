@@ -13,16 +13,14 @@ Gridus is an **AI-powered social media analytics platform**. it is designed to s
 ## Roadmap
 Our aim is to find the Product Market Fit(PMF) by developing our platform swiftly and cost-effectively. We'll leverage open-source libraries for core functionalities including social media data integration, data visualization, and AI-driven data analysis.
 
-## Financials
-We got a seed investment(2023.06) from South Korea government. The objective is to secure a Series A investment within 8 months.
-
 ## Current States
 Started from [Vercel](https://vercel.com/)'s [Next.js OpenAI Doc Search Starter](https://vercel.com/templates/next.js/nextjs-openai-doc-search-starter) template. Currently making dashboard UI using [Tremor](https://www.tremor.so/).
 
-## Requests
-Please review and apply various open-source data integration and visualization libraries. 
+## Financials
+We got a seed investment(2023.06) from South Korea government. The objective is to secure a Series A investment within 8 months.
 
 ## Contribution
+Please review and apply various open-source data integration and visualization libraries. 
 Contributions are welcome! Please read our [Contribution Guide](CONTRIBUTING.md) for more information.
 
 ## License
