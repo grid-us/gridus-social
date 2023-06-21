@@ -1,5 +1,5 @@
 # Gridus
-Gridus is an open-source AI-powered social media analytics platform designed to simplify and automate data analysis. With a low technical barrier, it swiftly derives valuable insights from all available data.
+Gridus is an open-source **AI-powered social media analytics platform**. it is designed to simplify and automate data analysis. With a low technical barrier, it swiftly derives valuable insights from all available data.
 
 ## Advantages
 1. **Integrated Social Media Analytics**: Gridus streamlines operations by unifying data analysis and social media management, providing a crucial tool for customer acquisition and retention.
