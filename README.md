@@ -1,6 +1,8 @@
 [한국어로 읽기](README-KR.md)
 
 # Gridus
+<img width="378" alt="image" src="https://github.com/seodam-hst/gridus/assets/102859746/94d043eb-8d3a-409c-ac8f-a82e250be8e2">
+
 Gridus is an **AI-powered social media analytics platform**. 
 
 It is designed to simplify and automate social media data analysis. It swiftly derives valuable insights from all available data, with a low technical barrier.
