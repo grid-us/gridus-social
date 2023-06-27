@@ -1,16 +1,16 @@
 [한국어로 읽기](README-KR.md)
 
-# Gridus
+# Gridus Social
 <img width="378" alt="image" src="https://github.com/seodam-hst/gridus/assets/102859746/94d043eb-8d3a-409c-ac8f-a82e250be8e2">
 
-Gridus is an **AI-powered social media analytics platform**. 
+Gridus Social is an **AI-powered social media analytics platform**. 
 
 It is designed to simplify and automate social media data analysis. It swiftly derives valuable insights from all available data, with a low technical barrier.
 
 ## Advantages
-1. **Integrated Social Media Analytics**: Gridus streamlines operations by unifying social media data analysis and management, providing a crucial tool for customer acquisition and retention.
+1. **Integrated Social Media Analytics**: Gridus Social streamlines operations by unifying social media data analysis and management, providing a crucial tool for customer acquisition and retention.
 
-2. **Open Source**: Gridus is an open-source software. On average, open source software's saves maintenance costs by 33% compared to proprietary software.
+2. **Open Source**: Gridus Social is an open-source software. On average, open source software's saves maintenance costs by 33% compared to proprietary software.
 
 3. **AI-Driven Data Analysis**: The platform incorporates AI to provide competitive, simplified, and automated data analysis. It improve insights drawn from the data.
 
@@ -35,4 +35,4 @@ Please review and apply various open-source data integration and visualization l
 Please read our [Contribution Guide](CONTRIBUTING.md) for more information.
 
 ## License
-Gridus is licensed under the terms of the [Apache 2.0 license](LICENSE).
+Gridus Social is licensed under the terms of the [Apache 2.0 license](LICENSE).
