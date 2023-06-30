@@ -1,31 +1,40 @@
 import Head from 'next/head'
-import { Stack } from '@mui/material'
-import { Card } from '@tremor/react'
+import { Stack, ThemeProvider, createTheme } from '@mui/material'
 
 import { Dashboard } from '@/components/Dashboard'
 import { Chatbar } from '@/components/Chatbar'
-import { MiniDrawer } from '@/components/MiniDrawer'
+import ResponsiveAppBar from '@/components/ResponsiveAppBar'
+import { purple } from '@mui/material/colors'
+
+const outerTheme = createTheme({
+  palette: {
+    primary: {
+      main: purple[500],
+    },
+  },
+})
 
 export default function Home() {
   return (
     <>
       <Head>
-        <title>Next.js OpenAI Template</title>
+        <title>Gridus Social</title>
         <meta
           name="description"
-          content="Next.js Template for building OpenAI applications with Supabase."
+          content="Gridus Social is an AI-powered social media analytics platform."
         />
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <Stack direction="row" spacing={2}>
-        <MiniDrawer />
-        <Stack spacing={2}>
-          <Card />
-          <Dashboard />
+      <ThemeProvider theme={outerTheme}>
+        <ResponsiveAppBar />
+        <Stack direction="row" spacing={2}>
+          <Stack spacing={2}>
+            <Dashboard />
+          </Stack>
+          <Chatbar />
         </Stack>
-        <Chatbar />
-      </Stack>
+      </ThemeProvider>
     </>
   )
 }
